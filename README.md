@@ -1,2 +1,1 @@
-# greenloftlife.github.io
-GreenLoftLife.com
+# GreenLoftLife.com
